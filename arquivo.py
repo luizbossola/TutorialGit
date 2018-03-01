@@ -1,7 +1,8 @@
+# -*- coding : utf-8 -*-
 print "meu primeiro arquivo"
-print "modificação1"
+print "modificacao 1"
 print "sei aprendi - modificacao 2"
 print "to manjando"
-print "alteração 3"
+print "alteracao 3"
 print "Funcionalidade"
 print "atom"
